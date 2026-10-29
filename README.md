@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi!👋
+I'm Florian Zogaj, a Computer Science master's student at ETH Zurich and a research fellow at Harvard. My interests include computer vision, multimodal AI, and augmented reality.
 
 <!--
 **FlorianZogaj/FlorianZogaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
